@@ -46,7 +46,7 @@ Artemis is a lightweight, fast, asynchronous TCP port scanner built in Python. I
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/artemis.git
+git clone https://github.com/uvsser/artemis.git
 cd artemis
 
 # No pip install needed — zero external dependencies
